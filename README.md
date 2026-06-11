@@ -1,1 +1,2 @@
-# Portfolio-1CTT-2T
+# Portfolio-1CTT-2T 
+Esse portifólio foi desenvoldida no ano 2026, no segundo trimestre no Colégio Gastão Vidigal. A intenção é descrever a funcionalidade de cada código. As imagens, áudios e vídeos foram criadas pela IA.
